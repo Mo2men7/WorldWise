@@ -2,7 +2,6 @@ import CountryItem from "./CountryItem";
 
 import Spinner from "./Spinner";
 import styles from "./CountryList.module.css";
-import CityItem from "./CityItem";
 import Message from "./Message";
 
 function CountryList({ cities, isLoading }) {
