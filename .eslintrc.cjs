@@ -18,5 +18,10 @@ module.exports = {
       "warn",
       { allowConstantExport: true },
     ],
+    "react/prop-types": [
+      "off", // Disable the rule
+      { ignore: [], customValidators: [], skipUndeclared: [] },
+    ],
+    "no-unused-vars": "off",
   },
 };
