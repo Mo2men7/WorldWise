@@ -1,51 +1,27 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
+      "id": "c13b",
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "date": "2022-10-27T07:51:34.000Z",
+      "notes": "Amazing!",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "id": "97f5",
-      "cityName": "Port Said",
-      "country": "Egypt",
-      "emoji": "🇪🇬",
-      "date": "2024-07-16T15:59:48.770Z",
-      "notes": "Hoooomie",
-      "position": {
-        "lat": "31.25583543480985",
-        "lng": "32.261631488800056"
+        "lat": "40.38002840251183",
+        "lng": "-3.7133789062500004"
       }
     },
     {
-      "id": "e411",
-      "cityName": "Rabat",
-      "country": "Morocco",
-      "emoji": "🇲🇦",
-      "date": "2022-12-02T19:32:29.000Z",
-      "notes": "الرباط في الارض الحمراء ❤",
+      "id": "492a",
+      "cityName": "Port Said",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-07-17T07:01:42.188Z",
+      "notes": "Home ❤",
       "position": {
-        "lat": "34.01168859910852",
-        "lng": "-6.833496093750001"
+        "lat": "31.248030044481112",
+        "lng": "32.30255126953126"
       }
     }
   ]
